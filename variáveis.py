@@ -1,31 +1,27 @@
 # > AULA DE VARIÁVEIS
 
-# 1. Variáveis
+    #1. Variáveis
 
-#idade = 22 #criando uma variável
+idade = 22 #criando uma variável
 
-#print(idade)
+print(idade)
 
-#nome = 'Filipe Mateus'
+nome = 'Filipe Mateus'
 
-#print(nome)
+print(nome)
 
-"""
-    TIPOS DE VARIÁVEIS
 
-1. int: números inteiros, ou seja, números sem parte decimal: 0, 5, -1, 1000
+    #TIPOS DE VARIÁVEIS
 
-2. float: números reais, ou seja, números com parte decimal: 1.0, -2.7, 3.14
+#1. int: números inteiros, ou seja, números sem parte decimal: 0, 5, -1, 1000
 
-3. str: cadeias de caracteres, ou seja, dados textuais (string)
+#2. float: números reais, ou seja, números com parte decimal: 1.0, -2.7, 3.14
 
-4. bool: valores lógicos (booleanos): True ou false
+#3. str: cadeias de caracteres, ou seja, dados textuais (string)
 
-"""
+#4. bool: valores lógicos (booleanos): True ou false
 
-"""""
-
---> TESTE DAS VARIÁVEIS <--
+    #--> TESTE DAS VARIÁVEIS <--
 
 idade = 23
 altura = 1.70,
@@ -36,10 +32,6 @@ print(type(idade))
 print(type(altura))
 print(type(nome))
 print(type(estudando))
-
-"""
-
-
 
 # OBTENDO DADOS DO USUÁRIO E SALVANDO EM VARIÁVEIS
 
